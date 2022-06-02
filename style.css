@@ -265,16 +265,20 @@ ul {
   /* border: 2px solid red; */
   height: 100vh;
   position: relative;
+  top: 0;
   display: flex;
   justify-content: center;
+  overflow: hidden;
 }
 
 .intro__bg {
-  /* border: 2px solid red; */
+  /* border: 2px solid rgb(255, 255, 255); */
   background: url(assets/img/ipad-1.jpeg) no-repeat center center;
   background-size: 60%;
   height: 100%;
   width: 100%;
+  position: relative;
+  top: 0;
 }
 
 @media (max-width: 768px) {
@@ -533,6 +537,9 @@ p {
 }
 
 /* Helpers ----------------------------------------------------------------------------------------------*/
+.overflow {
+  overflow: hidden;
+}
 .z-index-top {
   position: relative;
   z-index: 100;
