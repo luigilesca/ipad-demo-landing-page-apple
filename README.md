@@ -109,7 +109,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 Project Repository: [Tesla landing page clone
 ](https://github.com/luigilesca/ipad-demo-landing-page-apple.git)
 
-Project Website: [tesla-landig-page-clone-model-3 - Netlify](tesla-landing-page-clone-model-3.netlify.app)
+Project Website: [ipad-landing-page-apple-clone - Netlify](https://ipad-landing-page-apple-clone.netlify.app)
 
 Portfolio: [Luigi Lesca-web-developer-portfolio](https://talent.start2impact.it/profile/luigi-lesca)
 
