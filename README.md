@@ -7,11 +7,11 @@
 <br />
 <div >
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="assets/homepage-ipad.png" alt="Logo" width="100%" height="100%" margin-bottom="100px">
+    <img src="/assets/homepage-ipad.png" alt="Logo" width="100%" height="100%" margin-bottom="100px">
     <br />
-    <img src="assets/landin-page.png" alt="Logo" width="100%" height="100%" margin-bottom="100px">
+    <img src="/assets/landin-page.png" alt="Logo" width="100%" height="100%" margin-bottom="100px">
      <br />
-    <img src="assets/landing-page-2.png" alt="Logo" width="100%" height="100%" margin-bottom="100px">
+    <img src="/assets/landing-page-2.png" alt="Logo" width="100%" height="100%" margin-bottom="100px">
   </a>
   
  
