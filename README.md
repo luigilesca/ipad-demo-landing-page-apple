@@ -8,7 +8,7 @@
 <div >
   <a href="https://github.com/othneildrew/Best-README-Template">
     <img src="assets/img/homepage-ipad.png"  width="100%" height="100%" margin-bottom="100px">
-    <br />
+    <br />   <br />
     <img src="assets/img/ipad-landin-page.png" width="100%" height="100%" margin-bottom="100px">
      <br />
     <img src="assets/img/ipad-landing-page-2.png"  width="100%" height="100%" margin-bottom="100px">
