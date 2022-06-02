@@ -43,13 +43,12 @@
 
 
 
-This is Tesla clone landing page about Model 3 car. 
+This is ipad (Apple) landing page. I try to replace the same original animation of Apple site.
 
 I build this project to practice in:
   
   - JavaScript animation
-  - JavaScript DOM manipulation
-  - Javascript Events
+  - GSAP animation
 
   
 
@@ -63,6 +62,7 @@ Use the `BLANK_README.md` to get started.
 - [Html]
 - [Css]
 - [JavaScript]
+- [Gsap]
 
 
 
@@ -107,7 +107,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 [@Luigi Lesca](https://www.linkedin.com/in/luigi-lesca/) - luigilesca@hotmail.it
 
 Project Repository: [Tesla landing page clone
-](https://github.com/luigilesca/tesla-landing-page-clone.git)
+](https://github.com/luigilesca/ipad-demo-landing-page-apple.git)
 
 Project Website: [tesla-landig-page-clone-model-3 - Netlify](tesla-landing-page-clone-model-3.netlify.app)
 
